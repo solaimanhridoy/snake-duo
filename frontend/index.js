@@ -2,7 +2,7 @@ const BG_COLOUR = '#582e25';
 const SNAKE_COLOUR = '#FFC300';
 const FOOD_COLOUR = '#67f459';
 
-const socket = io('https://sleepy-island-33889.herokuapp.com/');
+const socket = io('https://dry-ocean-99334.herokuapp.com/');
 
 socket.on('init', handleInit);
 socket.on('gameState', handleGameState);

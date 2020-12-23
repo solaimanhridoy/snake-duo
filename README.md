@@ -3,19 +3,19 @@
 
 **Special Credits:**  Thanks to **Adrian Henry** for this [awesome tutorial of JavaScript and socket.io](https://www.youtube.com/watch?v=ppcBIHv_ZPs&list=PLKjmznU0ijD3-kfuVzNdK5M7AN1_kFUir&index=15) from where I had learned a lot of stuffs!  
 
-Tools: JavaSript, node.js, HTML5, CSS3, Bootstrap4.
+Tools: JavaScript, node.js, HTML5, CSS3, Bootstrap4.
 
 To play the Live version from web: https://snake-duo.netlify.app/
 
 To play from local machine:
 
-Run from front-end directory:
+Run from frontend directory:
 
 ```shell
 npx live-server
 ```
 
-Run Back-end:
+Run Back-end from server directory:
 
 ```shell
 sudo npx nodemon server.js
